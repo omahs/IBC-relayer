@@ -29,4 +29,5 @@ We require a more powerful bare metal node due to the fact that we are running r
 ## Channels
 
 Chain | Chain-ID | Token | Dst-Chain | Channel | Port
+----- | -------- | ----- | --------- | ------- | ----
 CosmosHub | cosmoshub-4 | uatom | Osmosis | Channel-141 | Transfer
