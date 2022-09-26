@@ -48,3 +48,10 @@ Injective | injective-1 | uxprt | Osmosis | Channel-8 | Transfer
 Injective | injective-1 | uxprt | Juno | Channel-78 | Transfer
 Injective | injective-1 | uxprt | Bandchain | Channel-3 | Oracle
 Bandchain | laozi-mainnet | uband | Injective | Channel-7 | Oracle
+
+
+## Relayer Addresses
+
+Network | StakeWithUs Relayer Address
+------- | ---------------------------
+CosmosHub | [cosmos1av54qcmavhjkqsd67cf6f4cedqjrdeh7ed86fc](https://www.mintscan.io/cosmos/account/cosmos1av54qcmavhjkqsd67cf6f4cedqjrdeh7ed86fc "Cosmos Relayer Address")
