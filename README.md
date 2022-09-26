@@ -37,3 +37,12 @@ Osmosis | osmosis-1 | uosmos | CosmosHub | Channel-0 | Transfer
 Osmosis | osmosis-1 | uosmos | Juno | Channel-42 | Transfer
 Osmosis | osmosis-1 | uosmos | Evmos | Channel-204 | Transfer
 Osmosis | osmosis-1 | uosmos | Injective | Channel-122 | Transfer
+Juno | juno-1 | ujuno | CosmosHub | Channel-1 | Transfer
+Juno | juno-1 | ujuno | Osmosis | Channel-0 | Transfer
+Juno | juno-1 | ujuno | Injective | Channel-59 | Transfer
+Evmos | evmos_9001-2 | uevmos | CosmosHub | Channel-3 | Transfer
+Evmos | evmos_9001-2 | uevmos | Osmosis | Channel-0 | Transfer
+Injective | injective-1 | uxprt | Osmosis | Channel-8 | Transfer
+Injective | injective-1 | uxprt | Juno | Channel-78 | Transfer
+Injective | injective-1 | uxprt | Bandchain | Channel-3 | Oracle
+Bandchain | laozi-mainnet | uband | Injective | Channel-7 | Oracle
