@@ -31,3 +31,9 @@ We require a more powerful bare metal node due to the fact that we are running r
 Chain | Chain-ID | Token | Dst-Chain | Channel | Port
 ----- | -------- | ----- | --------- | ------- | ----
 CosmosHub | cosmoshub-4 | uatom | Osmosis | Channel-141 | Transfer
+CosmosHub | cosmoshub-4 | uatom | Juno | Channel-207 | Transfer
+CosmosHub | cosmoshub-4 | uatom | Evmos | Channel-292 | Transfer
+Osmosis | osmosis-1 | uosmos | CosmosHub | Channel-0 | Transfer
+Osmosis | osmosis-1 | uosmos | Juno | Channel-42 | Transfer
+Osmosis | osmosis-1 | uosmos | Evmos | Channel-204 | Transfer
+Osmosis | osmosis-1 | uosmos | Injective | Channel-122 | Transfer
