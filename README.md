@@ -11,7 +11,7 @@ StakeWithUs is currently relaying (Using Hermes) for the following projects:
 4) Injective (INJ)
 5) Bandchain (BAND) - Oracle
 
-##Recommended Hardware and OS Configuration
+## Recommended Hardware and OS Configuration ##
 
 OS: Ubuntu 20.04 LTS minimal
 * Disable root login
@@ -20,3 +20,13 @@ OS: Ubuntu 20.04 LTS minimal
 * Enable UFW and only allow SSH custom port and port 3001 (telemetry) to specific IP (bastion host and monitoring host)
 
 Hardware: Hetzner Bare Metal AX101
+* AMD Ryzen 9 5950X
+* 128GB DDR4 ECC RAM
+* 4 x 3.84TB NVMe SSD RAID 10
+
+We require a more powerful bare metal node due to the fact that we are running relayer full nodes as well to improve the latency in relaying the packets.
+
+## Channels
+
+Chain | Chain-ID | Token | Dst-Chain | Channel | Port
+CosmosHub | cosmoshub-4 | uatom | Osmosis | Channel-141 | Transfer
