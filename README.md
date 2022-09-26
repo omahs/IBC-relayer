@@ -55,3 +55,8 @@ Bandchain | laozi-mainnet | uband | Injective | Channel-7 | Oracle
 Network | StakeWithUs Relayer Address
 ------- | ---------------------------
 CosmosHub | [cosmos1av54qcmavhjkqsd67cf6f4cedqjrdeh7ed86fc](https://www.mintscan.io/cosmos/account/cosmos1av54qcmavhjkqsd67cf6f4cedqjrdeh7ed86fc "Cosmos Relayer Address")
+EVMOS | [evmos15gxjl4m4e4p4yc986k350ml8f5ywjr76nu6vtc](https://www.mintscan.io/evmos/account/evmos15gxjl4m4e4p4yc986k350ml8f5ywjr76nu6vtc "EVMOS Relayer Address")
+Osmosis | [osmo1av54qcmavhjkqsd67cf6f4cedqjrdeh73k52l2](https://www.mintscan.io/osmosis/account/osmo1av54qcmavhjkqsd67cf6f4cedqjrdeh73k52l2 "Osmosis Relayer Address")
+Juno | [juno1av54qcmavhjkqsd67cf6f4cedqjrdeh70lypwy](https://www.mintscan.io/juno/account/juno1av54qcmavhjkqsd67cf6f4cedqjrdeh70lypwy "Juno Relayer Address")
+Bandchain | [band1q5py62z4fq0kcfjj9u6rhgegaxqjd57w5cn87m](https://www.mintscan.io/band/account/band1q5py62z4fq0kcfjj9u6rhgegaxqjd57w5cn87m "Band Relayer Address")
+Injective | [inj15gxjl4m4e4p4yc986k350ml8f5ywjr76m5uxrg](https://www.mintscan.io/injective/account/inj15gxjl4m4e4p4yc986k350ml8f5ywjr76m5uxrg "Injective Relayer Address")
