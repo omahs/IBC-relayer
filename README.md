@@ -19,7 +19,7 @@ OS: Ubuntu 20.04 LTS minimal
 * Disable root login
 * Change SSH default port
 * Use SSH Keys
-* Enable UFW and only allow SSH custom port and port 3001 (telemetry) to specific IP (bastion host and monitoring host)
+* Enable UFW and only allow SSH custom port and port 3001 (telemetry) to specific IP (bastion host and monitoring host) ingress.
 
 Hardware: Hetzner Bare Metal AX101
 * AMD Ryzen 9 5950X
