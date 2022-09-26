@@ -1,5 +1,7 @@
 # IBC-relayer
-What is IBC?
+
+## What is IBC? ##
+
 IBC is a reliable, ordered, and authenticated protocol for relaying arbitrary messages between independent distributed ledgers
 
 StakeWithUs is currently relaying (Using Hermes) for the following projects:
