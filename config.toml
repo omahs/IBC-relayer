@@ -212,7 +212,7 @@ list = [
 id = 'evmos_9001-2'
 rpc_addr = 'http://127.0.0.1:45557'
 grpc_addr = 'http://127.0.0.1:9068'
-websocket_addr 'http://127.0.0.1:45557/websocket'
+websocket_addr = 'http://127.0.0.1:45557/websocket'
 rpc_timeout = '30s'
 account_prefix = 'evmos'
 key_name = 'swu-evmos'
