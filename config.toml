@@ -148,6 +148,7 @@ list = [
  ['transfer', 'channel-42'], # juno-1  
  ['transfer', 'channel-204'], # evmos_9001-2
  ['transfer', 'channel-122'], # injective-1
+ ['ica*','*'], # allow relaying on all channels whose port starts with `ica`
 ]
 
 [[chains]]
@@ -293,6 +294,7 @@ policy = 'allow'
 list = [
    ['transfer', 'channel-6'], # osmosis-1
    ['transfer', 'channel-41'], # Injective-1
+   ['ica*','*'], # allow relaying on all channels whose port starts with `ica`
 ]
 
 [[chains]]
