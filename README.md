@@ -12,6 +12,7 @@ StakeWithUs is currently relaying (Using Hermes) for the following projects:
 4) JUNO (JUNO)
 4) Injective (INJ)
 5) Bandchain (BAND) - Oracle
+6) Persistence (XPRT)
 
 ## Recommended Hardware and OS Configuration ##
 
@@ -39,6 +40,7 @@ Osmosis | osmosis-1 | uosmos | CosmosHub | Channel-0 | Transfer
 Osmosis | osmosis-1 | uosmos | Juno | Channel-42 | Transfer
 Osmosis | osmosis-1 | uosmos | Evmos | Channel-204 | Transfer
 Osmosis | osmosis-1 | uosmos | Injective | Channel-122 | Transfer
+Osmosis | osmosis-1 | uosmos | Persistence | Channel-6 | Transfer
 Juno | juno-1 | ujuno | CosmosHub | Channel-1 | Transfer
 Juno | juno-1 | ujuno | Osmosis | Channel-0 | Transfer
 Juno | juno-1 | ujuno | Injective | Channel-59 | Transfer
@@ -48,6 +50,7 @@ Injective | injective-1 | uxprt | Osmosis | Channel-8 | Transfer
 Injective | injective-1 | uxprt | Juno | Channel-78 | Transfer
 Injective | injective-1 | uxprt | Bandchain | Channel-3 | Oracle
 Bandchain | laozi-mainnet | uband | Injective | Channel-7 | Oracle
+Persistence | core-1 | uxprt | Osmosis | Channel-4 | Transfer
 
 
 ## Relayer Addresses
@@ -60,3 +63,4 @@ Osmosis | [osmo1av54qcmavhjkqsd67cf6f4cedqjrdeh73k52l2](https://www.mintscan.io/
 Juno | [juno1av54qcmavhjkqsd67cf6f4cedqjrdeh70lypwy](https://www.mintscan.io/juno/account/juno1av54qcmavhjkqsd67cf6f4cedqjrdeh70lypwy "Juno Relayer Address")
 Bandchain | [band1q5py62z4fq0kcfjj9u6rhgegaxqjd57w5cn87m](https://www.mintscan.io/band/account/band1q5py62z4fq0kcfjj9u6rhgegaxqjd57w5cn87m "Band Relayer Address")
 Injective | [inj15gxjl4m4e4p4yc986k350ml8f5ywjr76m5uxrg](https://www.mintscan.io/injective/account/inj15gxjl4m4e4p4yc986k350ml8f5ywjr76m5uxrg "Injective Relayer Address")
+Persistence | [persistence1rd2gwjk6cmvgxedl5gwcvhw8lt62wttyla65my](https://www.mintscan.io/persistence/account/persistence1rd2gwjk6cmvgxedl5gwcvhw8lt62wttyla65my "Persistence Relayer Address")
