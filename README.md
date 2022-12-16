@@ -41,6 +41,7 @@ Osmosis | osmosis-1 | uosmos | Juno | Channel-42 | Transfer
 Osmosis | osmosis-1 | uosmos | Evmos | Channel-204 | Transfer
 Osmosis | osmosis-1 | uosmos | Injective | Channel-122 | Transfer
 Osmosis | osmosis-1 | uosmos | Persistence | Channel-6 | Transfer
+Osmosis | osmosis-1 | uosmos | Persistence | Channel-6 | ICA
 Juno | juno-1 | ujuno | CosmosHub | Channel-1 | Transfer
 Juno | juno-1 | ujuno | Osmosis | Channel-0 | Transfer
 Juno | juno-1 | ujuno | Injective | Channel-59 | Transfer
@@ -51,6 +52,7 @@ Injective | injective-1 | uxprt | Juno | Channel-78 | Transfer
 Injective | injective-1 | uxprt | Bandchain | Channel-3 | Oracle
 Bandchain | laozi-mainnet | uband | Injective | Channel-7 | Oracle
 Persistence | core-1 | uxprt | Osmosis | Channel-4 | Transfer
+Persistence | core-1 | uxprt | Osmosis | Channel-4 | ICA
 
 
 ## Relayer Addresses
