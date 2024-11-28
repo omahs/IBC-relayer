@@ -7,7 +7,7 @@ IBC is a reliable, ordered, and authenticated protocol for relaying arbitrary me
 StakeWithUs is currently relaying (Using Hermes) for the following projects:
 
 1) Cosmos (ATOM)
-2) Osmois (OSMOS)
+2) Osmosis (OSMOS)
 3) EVMOS (EVMOS)
 4) JUNO (JUNO)
 4) Injective (INJ)
